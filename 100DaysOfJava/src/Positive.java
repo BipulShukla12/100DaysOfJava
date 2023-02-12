@@ -6,7 +6,7 @@ public class Positive {
             else if(num>0)
             System.out.println("Number is positive");
             else
-            System.out.println("zeroo");
+            System.out.println("zerooo");
 
           
       }
