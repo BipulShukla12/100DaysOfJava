@@ -10,7 +10,7 @@ class Hcf{
         else
             num2 -= num1;
     }
-//hhhhhhh
+
 
 
     System.out.println("The HCF: "+ num1);
