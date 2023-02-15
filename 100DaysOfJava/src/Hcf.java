@@ -1,4 +1,4 @@
-// hcf
+
 class Hcf{
   public static void main (String[]args){
     int num1 = 36, num2 = 60, hcf;
