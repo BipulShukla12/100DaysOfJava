@@ -14,7 +14,7 @@ public class Palindrome{
      	temp /= 10;
        };
 
-     // Reverse no are equal in palindrome
+     
      if (num == reverse)
        System.out.println (num + " is Palindrome");
      else
