@@ -10,7 +10,7 @@ public class Power{
         res *= base;
         expo--;
     }
-    //////////
+    
     System.out.println("Result = " + res); 
 	}
 }
