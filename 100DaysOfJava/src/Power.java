@@ -2,7 +2,7 @@ public class Power{
 	public static void main(String[] args) {
 	    
 	double base = 1.5;
-    // Works only when exponent is positive integer
+    // Works only when exponent is positive integers
     int expo = 2;
     double res = 1.0;
     
