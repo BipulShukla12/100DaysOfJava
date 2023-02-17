@@ -1,4 +1,4 @@
-// hcf
+
 class Hcf{
   public static void main (String[]args){
     int num1 = 36, num2 = 60, hcf;
@@ -10,7 +10,7 @@ class Hcf{
         else
             num2 -= num1;
     }
-//hhhhhhh
+
 
 
     System.out.println("The HCF: "+ num1);
