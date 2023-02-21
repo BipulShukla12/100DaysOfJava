@@ -10,8 +10,8 @@ public class Perfectsq{
 		}
 		return false;
 	}
-////jjdhcjk
-//jdj
+
+
 	public static void main(String[] args)
 	{
 		int x = 84;
