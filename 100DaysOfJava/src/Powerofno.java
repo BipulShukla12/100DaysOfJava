@@ -2,7 +2,6 @@ public class Powerofno{
 	public static void main(String[] args) {
 	    
 	double base = 2.5;
-    // Works only 
     int expo = 2;
     double res = 1.0;
     
