@@ -6,7 +6,7 @@ public class Sumofdig{
 
 
 
-     //loop to find sum of d
+     //loop to f
      while(num!=0){
          sum += num % 10;
          num = num / 10;
