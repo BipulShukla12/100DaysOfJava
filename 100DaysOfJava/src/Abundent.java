@@ -1,7 +1,7 @@
 public class Abundent{
 
 
-//Abunde
+//Ab
    public static void main (String[]args)
    {
 
