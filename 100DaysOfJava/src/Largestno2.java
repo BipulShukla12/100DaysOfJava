@@ -17,7 +17,7 @@ public class Largestno2
        }
 
      }
-// print no in this code
+
     System.out.print(max); 
   }
 }
