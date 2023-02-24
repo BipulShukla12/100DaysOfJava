@@ -17,7 +17,7 @@ public class Largestno2
        }
 
      }
-// print no i 
+// prin
     System.out.print(max); 
   }
 }
