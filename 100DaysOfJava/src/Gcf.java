@@ -9,7 +9,7 @@ class Gcf
      if (num1 % i == 0 && num2 % i == 0)
         hcf = i;
       }
-
+//agreatest common factor
     System.out.println("The HCF: "+ hcf);
   }
 }
