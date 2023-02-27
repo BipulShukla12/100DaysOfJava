@@ -1,5 +1,5 @@
 class Factorial{
-    // Method to find factorial of the given nu
+    // Method to find factorial 
     static int factorial(int n)
     {
         int res = 1, i;
