@@ -5,7 +5,7 @@ public class Febric{
      int num = 15;
      int a = 0, b = 1;
 
-     /
+     
        System.out.print (a + " , " + b + " , ");
 
      int nextTerm;
