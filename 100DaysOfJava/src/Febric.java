@@ -10,7 +10,7 @@ public class Febric{
 
      int nextTerm;
 
-     // printing the rest of the terms here
+     // printing the rest of 
      for (int i = 2; i < num; i++)
        {
       nextTerm = a + b;
