@@ -10,7 +10,8 @@ public class Abundent{
      	System.out.println (n + " is an Abundant Number");
      	System.out.println ("The Abundance is: " + (sum - n));
        }
-     else
+     else 
+//Abundent
        System.out.println (n + " is not an Abundant Number");
    }
  }
