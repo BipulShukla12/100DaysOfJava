@@ -8,7 +8,7 @@ class Factorial{
         return res;
     }
     
-    // Driver method of fact
+    // Driver method 
     public static void main(String[] args)
     {
         int num = 6;
