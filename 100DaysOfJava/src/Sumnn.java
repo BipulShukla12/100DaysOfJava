@@ -8,7 +8,6 @@ public class Sumnn{
          sum += num % 5;
          num = num / 5;
      }
-     //out
        System.out.println ("Sum of digits : " + sum);
    }
  }
