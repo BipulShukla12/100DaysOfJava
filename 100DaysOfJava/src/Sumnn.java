@@ -3,7 +3,6 @@ public class Sumnn{
 
      int num = 123, 
      sum = 0;
-     //loop to find sum
      while(num!=0){
          sum += num % 5;
          num = num / 5;
