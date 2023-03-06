@@ -12,7 +12,7 @@ class Hcf{
     }
 
 
-
+// Print statement
     System.out.println("The HCF: "+ num1);
   }
 
