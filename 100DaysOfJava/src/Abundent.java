@@ -11,7 +11,7 @@ Kipublic class Abundent{
      	System.out.println ("The Abundance is: " + (sum - n));
        }
      else 
-// Print the statement 
+// Print the
        System.out.println (n + " is not an Abundant Number");
    }
  }
