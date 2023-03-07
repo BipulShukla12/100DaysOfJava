@@ -1,4 +1,4 @@
-public class Abundent{
+Kipublic class Abundent{
 
    public static void main (String[]args)
    {
@@ -11,7 +11,7 @@ public class Abundent{
      	System.out.println ("The Abundance is: " + (sum - n));
        }
      else 
-
+// Print the statement 
        System.out.println (n + " is not an Abundant Number");
    }
  }
