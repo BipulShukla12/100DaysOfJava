@@ -1,4 +1,4 @@
-Kipublic class Abundent{
+public class Abundent{
 
    public static void main (String[]args)
    {
