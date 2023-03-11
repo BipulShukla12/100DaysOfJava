@@ -11,7 +11,7 @@ public class Perfectsq{
 		return false;
 	}
 
-//Print the statement
+//Print the
 	public static void main(String[] args)
 	{
 		int x = 84;
