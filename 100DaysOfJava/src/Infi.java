@@ -4,6 +4,7 @@ public class Infi {
         while (startseq<=lastseq){
             System.out.print(startseq+" ");
             startseq=startseq*2;
+           //print the statement   
         }
       }
   }
