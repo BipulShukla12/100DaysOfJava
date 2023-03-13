@@ -4,7 +4,7 @@ public class Smallno{
   public static void main(String args[])
   {
 
-     int arr[] = {12, 13, 1, 10, 34, 10};
+     int arr[] = {12, 43, 1, 90, 34, 20};
 
      int min = arr[0];
 
@@ -14,7 +14,7 @@ public class Smallno{
          }
 
      }
-
+// 
      System.out.print(min); 
   }
 }
