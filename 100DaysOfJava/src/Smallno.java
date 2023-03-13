@@ -14,7 +14,7 @@ public class Smallno{
          }
 
      }
-// print the small
+// print the small no in java
      System.out.print(min); 
   }
 }
