@@ -14,7 +14,7 @@ public class Smallno{
          }
 
      }
-// 
+// print the small
      System.out.print(min); 
   }
 }
