@@ -15,6 +15,7 @@ public class Smallargeno{
 
        }
 // print the largest and smallest no
+// print the largest no in java
        System.out.println(smallest);
        System.out.println(largest);
    }
