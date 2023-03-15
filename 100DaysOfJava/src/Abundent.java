@@ -12,7 +12,7 @@ public class Abundent{
        }
      else 
 
-// Print 
+
        System.out.println (n + " is not an Abundant Number");
    }
  }
