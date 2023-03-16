@@ -4,7 +4,7 @@ public class Even {
             if(num %2==0)
             System.out.println(num +" is Even");
             else
-          //Print 
+          
   System.out.println(num +" is odd");
       }
 }
