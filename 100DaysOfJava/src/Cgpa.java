@@ -6,8 +6,7 @@ public class Cgpa {
             int subject3 = 45;
             int cgpa = (subject1 + subject2 + subject3)/3;
 <<<<<<< HEAD
-            System.out.println(" cgpa" +  cgpa );
-=======
+            System.out.println(" cgpa" +  cgp
            
             System.out.println("cgpaaa"+ cgpa);
 >>>>>>> 24c15870d855a4b6951aea20fb73b0a3aea52b55
