@@ -8,8 +8,7 @@ public class Cgpa {
 <<<<<<< HEAD
             System.out.println(" cgpa" +  cgp
            
-            System.out.println("cgpaaa"+ cgpa);
->>>>>>> 24c15870d855a4b6951aea20fb73b0a3aea52b55
+            System.out.println("cgpaaa"+ cgp> 24c15870d855a4b6951aea20fb73b0a3aea52b55
 
       }
       
